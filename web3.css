@@ -1,0 +1,25 @@
+body { background-color: lightBlue;
+}
+
+h1 {
+	color:rgb(0,68,255);
+	font-family:"Arial Blue",sans-serif;
+	text-align: center;
+	font-size: 30pt;
+}
+h3 {
+	color: black;
+	font-family: verdana,sans-serif;
+	font-size: 15;
+	text-align: start;
+}
+ul
+{ font-family: Charcoal,sans-serif;
+font-size: 20;
+text-align: start;
+
+}
+h2 {
+
+	font-size: 30;
+}

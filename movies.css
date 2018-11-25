@@ -1,0 +1,28 @@
+body { background-color: LightGrey;
+}
+
+h1 {
+	color:red;
+	font-family:"Arial Blue",sans-serif;
+	text-align: center;
+	font-size: 30pt;
+}
+h2 {
+
+	font-size: 30;
+	font-family: verdana,italic;
+	color:green;
+}
+h3 {
+	color: green;
+	font-family: verdana,sans-serif;
+	font-size: 15;
+	text-align: start;
+}
+p {color: green;
+	font-family: verdana,sans-serif;
+	font-size: 25;
+	text-align: center;
+}
+
+
